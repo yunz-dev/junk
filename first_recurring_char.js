@@ -10,3 +10,4 @@ function findFirst(arrayOfChars) {
 }
 
 console.log(findFirst([1,2,3,2,1,2,3]));
+// i forgot what this is for
